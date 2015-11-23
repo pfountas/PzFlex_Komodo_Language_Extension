@@ -1,3 +1,4 @@
 category komodo-language PzFlex @activestate.com/koLanguage?language=PzFlex;1
+category komodo-language-info PzFlex %7B%22name%22%3A%20%22PzFlex%22%2C%20%22defaultExtension%22%3A%20%22.flxinp%22%7D
 contract @activestate.com/koLanguage?language=PzFlex;1 {0852bfc4-a034-4025-9426-6b9350026e74}
 component {0852bfc4-a034-4025-9426-6b9350026e74} koPzFlex_UDL_Language.py

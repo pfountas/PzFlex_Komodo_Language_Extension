@@ -3,3 +3,4 @@ skin pzflexlanguage classic/1.0 skin/
 locale pzflexlanguage en-US locale/en-US/
 
 manifest components/component.manifest
+category udl-lexers pzflex_language@pfountas 1
