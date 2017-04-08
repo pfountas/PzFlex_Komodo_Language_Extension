@@ -1,2 +1,2 @@
-# PzFlex_Komodo_Language_Extension
+# pzflex-komodo-language-extension
 PzFlex Komodo language extension
